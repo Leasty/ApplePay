@@ -1,7 +1,7 @@
 # ApplePay - Case Study
 Case Study
 
-![pic](Picture.jpg)
+![AP](picture.jpg)
 
 ## Descriription Header ##
 
